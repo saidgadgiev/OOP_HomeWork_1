@@ -11,13 +11,13 @@ public class HotDrink extends Product {
         this.volume = volume;
     }
 
-    // public int getTemperature() {
-    //     return temperature;
-    // }
+    public int getTemperature() {
+        return temperature;
+    }
 
-    // public void setTemperature(int volume) {
-    //     this.temperature = volume;
-    // }
+    public void setTemperature(int volume) {
+        this.temperature = volume;
+    }
 
         /**
      * переопределение вывода продукта
@@ -34,9 +34,5 @@ public class HotDrink extends Product {
         ", Температура = " + temperature +
         '}';
     }
-    // public String toBuy()
-    // {
-    //     return "25"
-    // }
     
 }
