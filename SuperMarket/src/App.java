@@ -21,6 +21,7 @@ public class App {
 //        market.acceptToMarket(item1);
 //        market.acceptToMarket(item2);
 //        market.acceptToMarket(item3);
+        System.out.println("Клиенты по Акции\n");
         market.actionToMarket(item4);
         market.actionToMarket(item5);
         market.actionToMarket(item6);

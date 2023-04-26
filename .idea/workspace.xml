@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f90d76f-b200-4075-bc6d-881f34c5dbef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SuperMarket/SuperMarket.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperMarket/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperMarket/src/Classes/ActionClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperMarket/src/Classes/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperMarket/src/Classes/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperMarket/src/Classes/OrdinaryClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperMarket/src/Classes/SpecialClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperMarket/src/Interfaces/iActorBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperMarket/src/Interfaces/iMarketBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperMarket/src/Interfaces/iQueueBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuperMarket/src/Interfaces/iReturnOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperMarket/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperMarket/src/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +41,21 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "D:/Programming/test/ddd1/OOP_Java",
-    "onboarding.tips.debug.path": "D:/GB/Homework/7_Объектно-ориентированное программирование/OOP_Gr_3366/VendingMachine/src/App.java",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "D:/GB/Homework/7_Объектно-ориентированное программирование/OOP_Gr_3366",
+    "onboarding.tips.debug.path": "D:/GB/Homework/7_Объектно-ориентированное программирование/OOP_Gr_3366/SuperMarket/src/App.java",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="StudentServiceApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="SuperMarket" />
@@ -68,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -82,5 +80,16 @@
       <updated>1682017649846</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SuperMarket/src/App.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
