@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f90d76f-b200-4075-bc6d-881f34c5dbef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/StudentServiceApp/StudentServiceApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/StudentSteam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SuperMarket/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperMarket/src/App.java" afterDir="false" />
     </list>
