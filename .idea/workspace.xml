@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f90d76f-b200-4075-bc6d-881f34c5dbef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudentServiceApp/StudentServiceApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/StudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/StudentSteam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/UserComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperMarket/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/SuperMarket/src/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,6 +48,11 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GB\Homework\7_Объектно-ориентированное программирование\OOP_Gr_3366\StudentServiceApp\src\StudentDomen" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.App (1)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
