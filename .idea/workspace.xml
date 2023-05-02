@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f90d76f-b200-4075-bc6d-881f34c5dbef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/AverageAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/TeacherService/TeacherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentServiceApp/src/TeacherService/TeacherService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentServiceApp/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentServiceApp/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentDomen/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentServiceApp/src/StudentService/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentServiceApp/src/StudentService/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_Gr_3366.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_Gr_3366.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SudentMVCApp/StudentDb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SudentMVCApp/StudentDb.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SudentMVCApp/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/SudentMVCApp/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SudentMVCApp/src/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/SudentMVCApp/src/Controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SudentMVCApp/src/Controller/iGetModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/SudentMVCApp/src/Controller/iGetModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SudentMVCApp/src/Model/FileRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SudentMVCApp/src/Model/FileRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SudentMVCApp/src/Model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/SudentMVCApp/src/Model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SudentMVCApp/src/View/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/SudentMVCApp/src/View/View.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +48,12 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "D:/GB/Homework/7_Объектно-ориентированное программирование/java",
+    "last_opened_file_path": "D:/GB/Homework/7_Объектно-ориентированное программирование/OOP_Gr_3366/SudentMVCApp",
     "onboarding.tips.debug.path": "D:/GB/Homework/7_Объектно-ориентированное программирование/OOP_Gr_3366/SuperMarket/src/App.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "two.files.diff.last.used.folder": "D:/GB/Homework/7_Объектно-ориентированное программирование/OOP_Gr_3366/SudentMVCApp"
   }
 }]]></component>
   <component name="RecentsManager">
